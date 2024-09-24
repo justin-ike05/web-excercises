@@ -8,3 +8,7 @@ section{
     margin: 25px auto;
     border: 10px solid blue;
 }
+
+section:first-of-type{
+    background-image: linear-gradient(to top, green, green);
+}
